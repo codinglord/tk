@@ -1,0 +1,12 @@
+#chartdiv_1d,#chartdiv_7d,#chartdiv_1m,#chartdiv_1y{
+	width	: 100%;
+	height	: 500px;
+}			
+
+
+#chartdiv_bar_1d,#chartdiv_bar_7d,#chartdiv_bar_1m,#chartdiv_bar_1y {
+	width	: 100%;
+	height	: 125px;
+}			
+
+
