@@ -1,8 +1,8 @@
 
+app.service("srvChart",function(){
 
 
-
-function loadChart(chartId,chartType,dataProvider,chartConf)
+    function loadChart(chartId,chartType,dataProvider,chartConf)
 {
 
 
@@ -755,5 +755,10 @@ var lineData = [{
     loadChart(iLineChartId,"linechart",lineData,{});
 
 }
+
+});
+
+
+
 
 
